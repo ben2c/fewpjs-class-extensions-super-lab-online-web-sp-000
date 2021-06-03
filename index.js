@@ -1,2 +1,4 @@
 // Write your classes here
-class Tree
+class Tree(species) {
+  this.species = species
+}
