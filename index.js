@@ -5,6 +5,6 @@ class Tree {
   }
   
   static definition() {
-    
+    return 
   }
 }
